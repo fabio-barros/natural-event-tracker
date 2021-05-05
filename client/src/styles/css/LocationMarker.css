@@ -1,0 +1,7 @@
+.location-icon {
+  font-size: 2rem;
+}
+
+.location-icon:hover {
+  cursor: pointer;
+}
