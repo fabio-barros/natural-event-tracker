@@ -1,4 +1,4 @@
-# Loja-de-Discos
+# rastreador-eventos-naturais
 
 <p> 🖥 Rastreador de Eventos Naturais. </p>
 
@@ -14,5 +14,7 @@
 - [Google Map React](https://github.com/google-map-react/google-map-react)
 - [Axios](https://axios-http.com/)
 - [Firebase Hosting](https://firebase.google.com/docs/hosting)
+
+![EONET Demo](demo/eonettrackerdemo.gif)
 
 ### 🚀 https://portfolio-81b68.firebaseapp.com/
