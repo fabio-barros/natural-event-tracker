@@ -1,13 +1,13 @@
-# rastreador-eventos-naturais
+# natural-event-tracker
 
-<p> 🖥 Rastreador de Eventos Naturais. </p>
+<p> 🖥 Natural Event Tracker. </p>
 
-### ⚙️ Estrutura
+### ⚙️ Structure
 
-- Client w/ React, Context API, NASA EONET API e Google Maps JavaScript API ✔️
+- Client w/ React, React Context API, NASA EONET API & Google Maps JavaScript API ✔️
 - Firebase Hosting ✔️
  
-### 🛠 Tecnologias
+### 🛠 Technologies
 - [React](https://pt-br.reactjs.org/)
 - [NASA EONET API](https://eonet.sci.gsfc.nasa.gov/what-is-eonet)
 - [Google Maps JavaScript API ](https://developers.google.com/maps/documentation/javascript/overview)
